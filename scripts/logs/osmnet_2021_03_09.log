@@ -1,0 +1,47 @@
+2021-03-09 21:16:54,053 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:16:54,054 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.73193800,-23.09936900,-43.06177200,-22.77560500);>;);out;'}"
+2021-03-09 21:16:55,313 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 1.26 seconds
+2021-03-09 21:16:55,314 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 1.26 seconds
+2021-03-09 21:19:17,519 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:19:17,520 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.73193800,-23.09936900,-43.06177200,-22.77560500);>;);out;'}"
+2021-03-09 21:19:18,468 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.95 seconds
+2021-03-09 21:19:18,470 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.95 seconds
+2021-03-09 21:19:47,849 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:19:47,850 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.73193784,-23.09936911,-43.06177182,-22.77560503);>;);out;'}"
+2021-03-09 21:19:48,778 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.93 seconds
+2021-03-09 21:19:48,779 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.93 seconds
+2021-03-09 21:21:38,060 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:21:38,061 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.79625200,-23.08270500,-43.09908100,-22.74608800);>;);out;'}"
+2021-03-09 21:21:38,858 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.80 seconds
+2021-03-09 21:21:38,859 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.80 seconds
+2021-03-09 21:23:53,856 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:23:53,857 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.79625200,-23.08270500,-43.09908100,-22.74608800);>;);out;'}"
+2021-03-09 21:23:54,747 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.89 seconds
+2021-03-09 21:23:54,748 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.89 seconds
+2021-03-09 21:26:59,498 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:26:59,499 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.79625200,-23.08270500,-43.09908100,-22.74608800);>;);out;'}"
+2021-03-09 21:27:00,214 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.71 seconds
+2021-03-09 21:27:00,214 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.72 seconds
+2021-03-09 21:28:13,312 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:28:13,313 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.76283700,-23.07820900,-43.14348300,-22.80820600);>;);out;'}"
+2021-03-09 21:28:14,026 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 0.71 seconds
+2021-03-09 21:28:14,027 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 0.71 seconds
+2021-03-09 21:29:46,796 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:29:46,796 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-33.90140000,151.02160000,-33.77040000,151.30930000);>;);out;'}"
+2021-03-09 21:30:15,043 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:30:15,043 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.76283700,-23.07820900,-43.14348300,-22.80820600);>;);out;'}"
+2021-03-09 21:30:16,093 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 1.05 seconds
+2021-03-09 21:30:16,094 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 1.05 seconds
+2021-03-09 21:33:27,022 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:33:27,023 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-43.76283700,-23.07820900,-43.14348300,-22.80820600);>;);out;'}"
+2021-03-09 21:33:28,102 INFO osmnet Downloaded 0.3KB from www.overpass-api.de in 1.08 seconds
+2021-03-09 21:33:28,103 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 1.08 seconds
+2021-03-09 21:33:47,430 INFO osmnet Requesting network data within bounding box from Overpass API in 1 request(s)
+2021-03-09 21:33:47,430 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](-23.07630900,-43.75675700,-22.85410100,-43.17651900);>;);out;'}"
+2021-03-09 21:37:08,220 INFO osmnet Downloaded 43,743.2KB from www.overpass-api.de in 200.79 seconds
+2021-03-09 21:37:10,115 INFO osmnet Server remark: "runtime error: Query timed out in "print" at line 1 after 192 seconds."
+2021-03-09 21:37:10,119 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 1 request(s) and 202.69 seconds
+2021-03-09 21:37:13,995 INFO osmnet Returning OSM data with 321,978 nodes and 58,373 ways...
+2021-03-09 21:38:18,839 INFO osmnet Edge node pairs completed. Took 64.84 seconds
+2021-03-09 21:38:19,008 INFO osmnet Returning processed graph with 75,550 nodes and 106,313 edges...
+2021-03-09 21:38:19,008 INFO osmnet Completed OSM data download and Pandana node and edge table creation in 271.70 seconds
